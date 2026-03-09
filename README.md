@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairam%20Chennaka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Researcher%20%7C%20WACV%202026%20Author%20%7C%20JRF%20@%20IIIT%20Hyderabad&descAlignY=58&descSize=16&descColor=a0a0ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairam%20Chennaka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Researcher%20%7C%20WACV%202026%20Author%20%7C%20JRF%20&descAlignY=58&descSize=16&descColor=a0a0ff" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairam-chennaka)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.chennaka@gmail.com)
@@ -18,7 +18,7 @@
 
 ```python
 sairam = {
-    "role"        : "Junior Research Fellow @ IHub-Data, IIIT Hyderabad",
+    "role"        : "Junior Research Fellow @ MNR University x IIIT Hyderabad",
     "research"    : ["Multimodal AI", "LLMs", "Autonomous Driving", "Emotion Recognition"],
     "published"   : "WACV 2026 ✅ | IEEE FG 2026 🔄",
     "experience"  : "1+ year in AI/ML Engineering & Research",
@@ -105,23 +105,6 @@ sairam = {
 💼 Quality Analyst — BizDesire                                [Jun 2024 – Feb 2025]
    └─ Agile QA, sprint planning, automated testing, web delivery
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ram-cs7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-cs7&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ram-cs7&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
