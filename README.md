@@ -20,42 +20,13 @@
 sairam = {
     "role"        : "Junior Research Fellow @ MNR University x IIIT Hyderabad",
     "research"    : ["Multimodal AI", "LLMs", "Autonomous Driving", "Emotion Recognition"],
-    "published"   : "WACV 2026 ✅ | IEEE FG 2026 🔄",
+    "published"   : "WACV 2026",
     "experience"  : "1+ year in AI/ML Engineering & Research",
     "stack"       : ["PyTorch", "HuggingFace", "OpenCV", "LangChain", "FastAPI"],
     "openTo"      : "AI/ML Engineer | Research Engineer | SDE | R&D | PM",
     "available"   : True  # Immediately!
 }
 ```
-
----
-
-## 🏆 Research Publications
-
-<table>
-<tr>
-<td width="50%">
-
-### ✅ WACV 2026 — ACCEPTED
-**Trust-Guided Multimodal LLM Integration with RL for Autonomous Driving**
-
-> Novel LLM+RL framework for autonomous vehicle decision-making using multimodal reasoning, trust estimation & scenario-aware reward modeling evaluated in CARLA simulation.
-
-`PyTorch` `CARLA` `Reinforcement Learning` `LLMs` `Multimodal AI`
-
-</td>
-<td width="50%">
-
-### 🔄 IEEE FG 2026 — Under Review
-**OpenFace-Adaptive: Multimodal Emotion Recognition with Audio-Visual-Text Fusion**
-
-> Transformer-based multimodal fusion architecture integrating audio, visual & textual modalities using adaptive attention mechanisms. **85%+ accuracy** on emotion recognition benchmarks.
-
-`Transformers` `Audio-Visual` `NLP` `Computer Vision`
-
-</td>
-</tr>
-</table>
 
 ---
 
