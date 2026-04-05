@@ -19,7 +19,7 @@
 ```python
 sairam = {
     "role"        : "Junior Research Fellow @ MNR University x IIIT Hyderabad",
-    "research"    : ["Multimodal AI", "LLMs", "Autonomous Driving", "Emotion Recognition"],
+    "research"    : ["Multimodal AI", "LLMs", "Autonomous Driving"],
     "published"   : "WACV 2026",
     "experience"  : "1+ year in AI/ML Engineering & Research",
     "stack"       : ["PyTorch", "HuggingFace", "OpenCV", "LangChain", "FastAPI"],
@@ -67,7 +67,7 @@ sairam = {
 ## 💼 Experience Timeline
 
 ```
-🔬 Junior Research Fellow — IHub-Data × IIIT Hyderabad       [Mar 2025 – Present]
+🔬 Junior Research Fellow — IHub-Data × IIIT Hyderabad       [Mar 2025 – Mar 2026]
    └─ Multimodal AI, LLM+RL for Autonomous Driving, CARLA Simulator
 
 🧪 Research Intern — IIT Mandi (IKSHMA Centre)               [Oct 2023 – Mar 2024]
