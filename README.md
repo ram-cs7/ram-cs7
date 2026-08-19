@@ -9,9 +9,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ram-cs7&color=6e40c9&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ram-cs7?style=flat-square&color=6e40c9)
 
-<a href="https://algora.io/profile/ram-cs7">
-  <img src="https://algora.io/og/user/ram-cs7" alt="Algora profile" />
-</a>
 </div>
 
 ---
@@ -152,3 +149,7 @@ Full-stack sports analytics platform built with **FastAPI, SQLAlchemy, Docker, P
    [Oct 2023 – Mar 2024]
    └─ Machine Learning, Breath-Based Glucose Detection,
       Statistical Analysis, Model Evaluation
+
+<a href="https://algora.io/profile/ram-cs7">
+  <img src="https://algora.io/og/user/ram-cs7" alt="Algora profile" />
+</a>
