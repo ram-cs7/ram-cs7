@@ -149,7 +149,3 @@ Full-stack sports analytics platform built with **FastAPI, SQLAlchemy, Docker, P
    [Oct 2023 – Mar 2024]
    └─ Machine Learning, Breath-Based Glucose Detection,
       Statistical Analysis, Model Evaluation
-
-<a href="https://algora.io/profile/ram-cs7">
-  <img src="https://algora.io/og/user/ram-cs7" alt="Algora profile" />
-</a>
