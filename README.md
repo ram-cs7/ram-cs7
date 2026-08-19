@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairam%20Chennaka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%26%20Researcher%20%7C%20LLMs%20%7C%20Multimodal%20AI%20%7C%20WACV%202026%20Author&descAlignY=60&descSize=16&descColor=a0a0ff" alt="Sairam Chennaka" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=200&section=header&text=Sairam%20Chennaka&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Researcher%20%7C%20WACV%202026%20Author&descAlignY=60&descSize=16&descColor=a0a0ff" alt="Sairam Chennaka" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sairam-chennaka)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.chennaka@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://sairamroyal.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://sairam-chennaka.lovable.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram-cs7)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ram-cs7&color=6e40c9&style=flat-square&label=Profile+Views)
